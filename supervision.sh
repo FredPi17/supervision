@@ -1,3 +1,7 @@
+#!/bin/bash
+
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+
 today_date=`date +"%Y-%m-%d_%T"`
 
 echo "[$(hostname -s)]" >> results/${today_date}.txt
