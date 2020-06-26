@@ -1,0 +1,5 @@
+[srv-server]
+OS: "Ubuntu 18.04.4 LTS"
+There are 48 updates and 0 security updates
+Comptes du groupe root:
+Date: 26-06-2020 07:40:53 UTC

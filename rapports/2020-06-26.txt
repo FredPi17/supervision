@@ -1,0 +1,30 @@
+[srv-server]
+OS: "Ubuntu 18.04.4 LTS"
+There are 48 updates and 0 security updates
+Comptes du groupe root:
+Date: 26-06-2020 11:25:39 UTC
+
+[samba-server]
+OS: "Ubuntu 20.04 LTS"
+There are 39 updates and 0 security updates
+Comptes du groupe root:
+Date: 26-06-2020 11:25:50 UTC
+
+[mysql-server]
+OS: "Ubuntu 20.04 LTS"
+There are 11 updates and 0 security updates
+Comptes du groupe root:
+Date: 26-06-2020 11:25:59 UTC
+
+[glpi-server]
+OS: "Ubuntu 20.04 LTS"
+There are 48 updates and 0 security updates
+Comptes du groupe root:
+Date: 26-06-2020 11:26:15 UTC
+
+[zabbix-server]
+OS: "Ubuntu 18.04.4 LTS"
+There are 49 updates and 0 security updates
+Comptes du groupe root:
+Date: 26-06-2020 11:26:27 UTC
+
