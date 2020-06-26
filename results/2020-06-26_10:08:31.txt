@@ -1,0 +1,6 @@
+[samba-server]
+OS: "Ubuntu 20.04 LTS"
+There are 39 updates and 0 security updates
+Comptes du groupe root:
+Date: 26-06-2020 10:08:34 UTC
+
